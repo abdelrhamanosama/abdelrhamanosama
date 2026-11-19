@@ -40,5 +40,5 @@ I'm a Computer Engineering student passionate about backend development, problem
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/abdelrhmanosama
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/abdelrhman-osama-5846a4282/
+- Email: abdelrhmanosama814@gmail.com
